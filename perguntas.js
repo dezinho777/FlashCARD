@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que vc acha desta aula ?',
-    'Ela e uma materia boa'
+    'Ela é uma materia boa'
 )
 
 criaCartao(
