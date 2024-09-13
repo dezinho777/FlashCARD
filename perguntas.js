@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que vc gosta de fazer?',
-    'na aula de programação'
+    'na aula de programação criar codigo'
 )
 
 criaCartao(
@@ -12,14 +12,12 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    '',
-    '?',
-    ''
+    'Qual é o objetivo da programação?',
+    'escreve códigos simples e complexos por meio de linguagens de programação como HTML, Javascript, Python ou C++.'
 )
 
 criaCartao(
     'Programação',
-    '',
-    '?',
-    ''
+    'Qual a linguagem da programação?',
+    'JavaScript.'
 )
