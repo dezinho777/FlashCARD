@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que vc gosta de fazer?',
-    'na aula de programação criar codigo'
+    ' Ir na aula de programação para criar códigos'
 )
 
 criaCartao(
