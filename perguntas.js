@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'resenhaa',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'qual sua turma?',
+    'De resenha vc gosta demais'
 )
 
 criaCartao(
