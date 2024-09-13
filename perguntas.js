@@ -1,23 +1,25 @@
 criaCartao(
     'Programação',
     'O que vc gosta de fazer?',
-    'O Python é uma linguagem de programação'
+    'na aula de programação'
 )
 
 criaCartao(
-    'Geografia',
-    'Quual e certa?',
-    'A capital da França e moscou'
+    'Programação',
+    'O que vc acha desta aula ?',
+    'Ela e uma materia boa'
 )
 
 criaCartao(
-    'resenhaa',
-    'qual sua turma?',
-    'De resenha vc gosta demais'
+    'Programação',
+    '',
+    '?',
+    ''
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Que lingua vc sabe falar?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    '',
+    '?',
+    ''
 )
