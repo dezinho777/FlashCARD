@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que vc gosta de fazer?',
-    ' Ir na aula de programação para criar códigos'
+    'O que se ensina no curso de programação?',
+    ' visa fornecer conhecimento teórico e prático sobre linguagens de programação, desenvolvimento de software, solução de problemas e lógica de programação.'
 )
 
 criaCartao(
     'Programação',
-    'O que vc acha desta aula ?',
-    'Ela é uma materia boa'
+    'Quais são as vantagens da programação?',
+    'criar soluções para problemas através do desenvolvimento de instruções e algoritmos que podem ser executados por computadores.'
 )
 
 criaCartao(
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Programação',
     'Qual a linguagem da programação?',
-    'JavaScript.'
+    'JavaScript,, Python, Java, PHP, CSS, C#, C++ e C..'
 )
